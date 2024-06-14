@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Reactjs**
 
-- 👨‍💻 All of my projects are available at [resume]([https://allofusaredeadd.netlify.app](https://rresumee.netlify.app))
+- 👨‍💻 All of my projects are available at [resume]((https://rresumee.netlify.app))
 
 - 💬 Ask me about **DSA**
 
