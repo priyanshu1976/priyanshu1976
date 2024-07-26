@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2ZDzUXr9kcKTQ76jwROWfD&ust=1722114734925000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDx0rvPxYcDFQAAAAAdAAAAABAJ">
 <h3 align="center">Hey there! I'm someone who loves jamming out to music and playing badminton for some active fun. Right now, I'm diving into the world of web development, focusing on making websites look cool and work smoothly. Java is my go-to language for coding adventures. Join me in this mix of tunes, sports, and coding creativity!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-withpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="code-withpriyanshu" /> </p>
