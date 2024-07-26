@@ -3,11 +3,6 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-withpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="code-withpriyanshu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-withpriyanshu" alt="code-withpriyanshu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@priyans67304329" target="blank"><img src="https://img.shields.io/twitter/follow/@priyans67304329?logo=twitter&style=for-the-badge" alt="@priyans67304329" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend WebDevelopment**
 
@@ -23,6 +18,13 @@
 - 📫 How to reach me **priyanshu.cto@gmail.com**
 
 - ⚡ Fun fact **Last time i smiled was when my code compiled**
+
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-withpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="code-withpriyanshu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-withpriyanshu" alt="code-withpriyanshu" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@priyans67304329" target="blank"><img src="https://img.shields.io/twitter/follow/@priyans67304329?logo=twitter&style=for-the-badge" alt="@priyans67304329" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
